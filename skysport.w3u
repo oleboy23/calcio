@@ -1,0 +1,64 @@
+{
+"name": "sky sport CALCIO",
+"author": "BadBoyBangBon",
+"info": "LIVE event ony",
+"image":"https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",
+"url": "",
+"stations":[
+
+{"name":"SKY SPORT CALCIO HD",
+"image":"https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",
+"url":"https://github.com/oleboy23/calcio/raw/refs/heads/main/hd.m3u8",
+"referer":"https://github.com",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"SKY SPORT CALCIO 1 HD",
+"image":"https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",
+"url":"https://github.com/oleboy23/calcio/raw/refs/heads/main/hd1.m3u8",
+"referer":"https://github.com",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"SKY SPORT CALCIO 2 HD",
+"image":"https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",
+"url":"https://github.com/oleboy23/calcio/raw/refs/heads/main/hd2.m3u8",
+"referer":"https://github.com",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"SKY SPORT CALCIO 3 HD",
+"image":"https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",
+"url":"https://github.com/oleboy23/calcio/raw/refs/heads/main/hd3.m3u8",
+"referer":"https://github.com",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"SKY SPORT CALCIO 4 HD",
+"image":"https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",
+"url":"https://github.com/oleboy23/calcio/raw/refs/heads/main/hd4.m3u8",
+"referer":"https://github.com",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"SKY SPORT CALCIO 5 HD",
+"image":"https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",
+"url":"https://github.com/oleboy23/calcio/raw/refs/heads/main/hd5.m3u8",
+"referer":"https://github.com",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"SKY SPORT CALCIO 6 HD",
+"image":"https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",
+"url":"https://github.com/oleboy23/calcio/raw/refs/heads/main/hd6.m3u8",
+"referer":"https://github.com",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"SKY SPORT CALCIO 7 HD",
+"image":"https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",
+"url":"https://github.com/oleboy23/calcio/raw/refs/heads/main/hd7.m3u8",
+"referer":"https://github.com",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"}
+]}
